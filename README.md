@@ -1,7 +1,7 @@
 Malagasy Web list
 ===================
 
-Repository containing the list websites written in Malagasy language.
+Repository containing the list of websites written in Malagasy language.
 
 The initial purpose is to make a list to be crawled in a future project
 for building a corpus for Malagasy words, phrases and documents.
